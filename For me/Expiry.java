@@ -1,0 +1,3 @@
+interface Expiry {
+    boolean isExpired();
+}

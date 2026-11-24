@@ -1,0 +1,4 @@
+Java is easy
+Python is powerful
+Java is popular
+I love Java
